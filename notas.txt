@@ -1,3 +1,4 @@
 
 Nuevos cambios realizados en readme
 Revisado y completado el ejercicio numero 2
+Nota, todos tenemos un 10
