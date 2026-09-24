@@ -1,1 +1,3 @@
-Revisar el ejercicio numero 2
+
+Nuevos cambios realizados en readme
+Revisado y completado el ejercicio numero 2
